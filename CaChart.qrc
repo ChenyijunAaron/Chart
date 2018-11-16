@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/CaChart/icon">
+        <file>Resources/icon/open.png</file>
+        <file>Resources/icon/run.png</file>
+        <file>Resources/icon/sweep.png</file>
+        <file>Resources/icon/zoomin.png</file>
+        <file>Resources/icon/zoomout.png</file>
+        <file>Resources/icon/hand1.png</file>
+    </qresource>
+</RCC>

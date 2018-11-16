@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon/open.png</file>
+        <file>Resources/icon/run.png</file>
+        <file>Resources/icon/sweep.png</file>
+        <file>Resources/icon/zoomin.png</file>
+        <file>Resources/icon/zoomout.png</file>
+    </qresource>
+</RCC>
